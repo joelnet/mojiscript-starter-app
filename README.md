@@ -22,6 +22,10 @@ npm run build
 ## Running the app
 
 ```bash
+# Run in debug mode
+MOJI_DEBUG=true npm run start
+
+# Just run
 npm run start
 ```
 
