@@ -11,7 +11,7 @@
     "watch": "esw -w --fix --ext .js,.mjs"
   },
   "dependencies": {
-    "mojiscript": "^0.11.3"
+    "mojiscript": "^0.13"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
