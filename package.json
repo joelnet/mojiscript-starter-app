@@ -4,11 +4,12 @@
   "description": "MojiScript Starter App",
   "author": "Joel Thoms",
   "license": "MIT",
+  "type": "module",
   "scripts": {
-    "start": "node --no-warnings --es-module-specifier-resolution=node src/index.mjs",
-    "build": "eslint . --ext .js,.mjs",
+    "start": "node --no-warnings --es-module-specifier-resolution=node src/index.js",
+    "build": "eslint .",
     "test": "jest",
-    "watch": "esw -w --fix --ext .js,.mjs"
+    "watch": "esw -w --fix"
   },
   "dependencies": {
     "mojiscript": "^0.13"
