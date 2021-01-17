@@ -4,6 +4,8 @@ The MojiScript starter app is the easiest way to quickstart a new MojiScript app
 
 MojiScript repository: https://github.com/joelnet/MojiScript
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/joelnet/mojiscript-starter-app)
+
 ## Install
 
 ```bash
